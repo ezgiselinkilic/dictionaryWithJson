@@ -1,0 +1,34 @@
+{ 
+ 	 "lang_words" : [ 
+ 		{ 
+		"alias" : "map",
+		"translations" : [ 
+ 			
+				{ "lang_code" :"en",
+ 				"text" : "map" 
+ 				},
+				{ "lang_code" :"tr",
+ 				"text" : "harita" 
+ 				}
+			]
+		}
+		,{
+		"alias" : "book",
+		"translations" : [ 
+ 			
+				{ "lang_code" :"en",
+ 				"text" : "book" 
+ 				},
+				{ "lang_code" :"tr",
+ 				"text" : "kitap" 
+ 				}
+			]
+		}
+	]
+}	"lang_code" :"tr",
+     				"text" : "kitap" 
+ 				}
+			]
+		}
+	]
+}
